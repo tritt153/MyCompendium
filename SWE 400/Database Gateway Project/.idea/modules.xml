@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassTable/ClassTable.iml" filepath="$PROJECT_DIR$/ClassTable/ClassTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcreteTable/ConcreteTable.iml" filepath="$PROJECT_DIR$/ConcreteTable/ConcreteTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatabaseConnections/DatabaseConnections.iml" filepath="$PROJECT_DIR$/DatabaseConnections/DatabaseConnections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModelProject/ModelProject.iml" filepath="$PROJECT_DIR$/ModelProject/ModelProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleTable/SingleTable.iml" filepath="$PROJECT_DIR$/SingleTable/SingleTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swe400f20221.iml" filepath="$PROJECT_DIR$/.idea/swe400f20221.iml" />
+    </modules>
+  </component>
+</project>

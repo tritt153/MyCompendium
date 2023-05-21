@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="253d4c27-c542-40ae-addb-50334d4de96c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="5cbc7004-3e6a-4614-b404-94ef9aa46157" name="Changes by jabit" comment="" />
+    <list id="bdcb3697-1924-42bd-a9a8-b63df2e1e75a" name="Changes by sethmiller" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2F5jTesxmtf09qYm4Khga2isSWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/jaois/Documents/College Stuff/Senior Year/Fall Semester/Large Scale Architecture/Project/swe400f20221",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="datasource.chemical" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="datasource.chemical" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="datasource.chemical" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in ClassTable">
+    <configuration name="All in ClassTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassTable" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompoundGatewayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassTable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datasource.compound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="datasource.compound" />
+      <option name="MAIN_CLASS_NAME" value="datasource.compound.CompoundGatewayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompoundGatewayTest.testGetAllCompoundsWithElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassTable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datasource.compound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="datasource.compound" />
+      <option name="MAIN_CLASS_NAME" value="datasource.compound.CompoundGatewayTest" />
+      <option name="METHOD_NAME" value="testGetAllCompoundsWithElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompoundGatewayTest.testGetAllWithElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassTable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datasource.compound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="datasource.compound" />
+      <option name="MAIN_CLASS_NAME" value="datasource.compound.CompoundGatewayTest" />
+      <option name="METHOD_NAME" value="testGetAllWithElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompoundGatewayTest.testRemoveRelationship" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassTable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datasource.compound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="datasource.compound" />
+      <option name="MAIN_CLASS_NAME" value="datasource.compound.CompoundGatewayTest" />
+      <option name="METHOD_NAME" value="testRemoveRelationship" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ClassTable" />
+        <item itemvalue="JUnit.CompoundGatewayTest" />
+        <item itemvalue="JUnit.CompoundGatewayTest.testGetAllWithElement" />
+        <item itemvalue="JUnit.CompoundGatewayTest.testGetAllCompoundsWithElement" />
+        <item itemvalue="JUnit.CompoundGatewayTest.testRemoveRelationship" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="253d4c27-c542-40ae-addb-50334d4de96c" name="Changes" comment="" />
+      <created>1663788850371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663788850371</updated>
+      <workItem from="1664220254808" duration="5025000" />
+      <workItem from="1664394589815" duration="3542000" />
+      <workItem from="1664482795971" duration="4786000" />
+      <workItem from="1664559464045" duration="8826000" />
+      <workItem from="1664728171016" duration="13049000" />
+      <workItem from="1664824960393" duration="1771000" />
+      <workItem from="1664841725364" duration="225000" />
+      <workItem from="1664842331429" duration="3359000" />
+      <workItem from="1666034178072" duration="165000" />
+      <workItem from="1666034398408" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
